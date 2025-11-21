@@ -14,10 +14,11 @@ public class Main
         System.out.println("2. Ехать на лошади");
         System.out.println("3. Лететь на самолете");
         System.out.println("Введите 'exit' для выхода");
+        Hero hero = new Hero();
+        Scanner scanner = new Scanner(System.in);
         String strategy;
-        while (!(strategy = new Scanner(System.in).nextLine()).equals("exit"))
+        while (!(strategy = scanner.nextLine()).equals("exit"))
         {
-            Hero hero = new Hero();
             switch (strategy)
             {
                 case "1":

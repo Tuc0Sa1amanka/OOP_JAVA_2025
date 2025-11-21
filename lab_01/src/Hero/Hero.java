@@ -8,6 +8,11 @@ public class Hero
     }
     public void move()
     {
+        if (moveStrategy == null)
+        {
+            System.out.println("Стратегия передвижения не установлена");
+            return;
+        }
         moveStrategy.move();
     }
     MoveStrategy moveStrategy;
