@@ -1,0 +1,52 @@
+i | я
+i'm | я
+you | ты
+you're | ты
+he | он
+he's | он
+she | она
+she's | она
+we | мы
+we're | мы
+they | они
+they're | они
+it | это
+it's | это
+don't | не
+can't | не могу
+won't | не буду
+isn't | не является
+aren't | не являются
+hello | привет
+good | хороший
+morning | утро
+day | день
+friend | друг
+my | мой
+your | твой
+father | отец
+mother | мать
+brother | брат
+sister | сестра
+family | семья
+house | дом
+car | машина
+cat | кот
+dog | собака
+bird | птица
+tree | дерево
+book | книга
+pen | ручка
+table | стол
+chair | стул
+love | люблю
+like | нравится
+see | вижу
+hear | слышу
+go | иду
+come | прихожу
+work | работаю
+play | играю
+sleep | сплю
+in the | в
+the | это
