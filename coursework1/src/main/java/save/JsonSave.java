@@ -11,9 +11,15 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.core.type.TypeReference;
 
 public final class JsonSave {
-    private static final ObjectMapper mapper = new ObjectMapper();
-    private static final String FILE_PATH = "data.json";
-    public void save(Record data, String apiName, boolean append) throws IOException {
+    private final ObjectMapper mapper;
+    private final String FILE_PATH;
+    private boolean append;
+    public JsonSave(boolean append) {
+        mapper = new ObjectMapper();
+        FILE_PATH = "data.json";
+        this.append = append;
+    }
+    public synchronized void save(Record data, String apiName) throws IOException {
         int idCounter;
         List<Map<String, Object>> result;
         File file = new File(FILE_PATH);
@@ -34,5 +40,6 @@ public final class JsonSave {
         record.put("data", data);
         result.add(record);
         mapper.writerWithDefaultPrettyPrinter().writeValue(file, result);
+        append = true;
     }
 }

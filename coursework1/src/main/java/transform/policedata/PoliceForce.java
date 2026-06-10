@@ -31,8 +31,8 @@ public record PoliceForce(
                 row.put("data.telephone", cleanValue(telephone()));
                 row.put("data.engagement_methods.type", cleanValue(method.type()));
                 row.put("data.engagement_methods.title", cleanValue(method.title()));
-                row.put("data.engagement_methods.url", cleanValue(method.url()));
                 row.put("data.engagement_methods.description", cleanValue(method.description()));
+                row.put("data.engagement_methods.url", cleanValue(method.url()));
                 rows.add(row);
             }
         } else {

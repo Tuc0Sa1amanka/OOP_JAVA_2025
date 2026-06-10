@@ -1,0 +1,108 @@
+id,source,timestamp,data.id,data.name,data.description,data.url,data.telephone,data.engagement_methods.type,data.engagement_methods.title,data.engagement_methods.description,data.engagement_methods.url,data.fullName,data.nickname,data.hogwartsHouse,data.interpretedBy,data.children,data.image,data.birthdate,data.index,data.expand,data.startAt,data.maxResults,data.total,data.issues.id,data.issues.key,data.issues.fields.summary,data.issues.fields.created,data.issues.fields.status.id,data.issues.fields.status.name
+1,police,2026-06-09T07:03:54.300190700Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,facebook,facebook,,http://www.facebook.com/leicspolice,,,,,,,,,,,,,,,,,,
+1,police,2026-06-09T07:03:54.300190700Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,twitter,twitter,,http://www.twitter.com/leicspolice,,,,,,,,,,,,,,,,,,
+1,police,2026-06-09T07:03:54.300190700Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,youtube,youtube,,http://www.youtube.com/leicspolice,,,,,,,,,,,,,,,,,,
+1,police,2026-06-09T07:03:54.300190700Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,rss,rss,,https://www.leics.police.uk/news/leicestershire/news/GetNewsRss/,,,,,,,,,,,,,,,,,,
+1,police,2026-06-09T07:03:54.300190700Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,telephone,telephone,,,,,,,,,,,,,,,,,,,,
+2,potter,2026-06-09T07:03:54.496599400Z,,,,,,,,,,Lord Voldemort,Voldemort,Slytherin,Ralph Fiennes,Delphi,https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/characters/lord_voldemort.png,Dec 31  1926,21,,,,,,,,,,
+3,jira,2026-06-09T07:03:54.943757900Z,,,,,,,,,,,,,,,,,,schema names,0,2,4745,13249927,ACCUMULO-4867,Java Collections Improvements in DefaultLoadBalancer,2019-08-09T15:30:10.000+0000,5,Resolved
+3,jira,2026-06-09T07:03:54.943757900Z,,,,,,,,,,,,,,,,,,schema names,0,2,4745,13229228,ACCUMULO-4864,PATCH - Use String.replace() instead of String.replaceAll() when replaceAll() does not use a regex,2019-04-20T20:09:57.000+0000,5,Resolved
+4,police,2026-06-09T07:03:56.544566400Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,facebook,facebook,,http://www.facebook.com/leicspolice,,,,,,,,,,,,,,,,,,
+4,police,2026-06-09T07:03:56.544566400Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,twitter,twitter,,http://www.twitter.com/leicspolice,,,,,,,,,,,,,,,,,,
+4,police,2026-06-09T07:03:56.544566400Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,youtube,youtube,,http://www.youtube.com/leicspolice,,,,,,,,,,,,,,,,,,
+4,police,2026-06-09T07:03:56.544566400Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,rss,rss,,https://www.leics.police.uk/news/leicestershire/news/GetNewsRss/,,,,,,,,,,,,,,,,,,
+4,police,2026-06-09T07:03:56.545080Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,telephone,telephone,,,,,,,,,,,,,,,,,,,,
+5,potter,2026-06-09T07:03:56.811255300Z,,,,,,,,,,Fred Weasley,Fred,Gryffindor,James Phelps,,https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/characters/fred_weasley.png,Apr 1  1978,3,,,,,,,,,,
+6,jira,2026-06-09T07:03:57.348390200Z,,,,,,,,,,,,,,,,,,schema names,0,2,4745,13249927,ACCUMULO-4867,Java Collections Improvements in DefaultLoadBalancer,2019-08-09T15:30:10.000+0000,5,Resolved
+6,jira,2026-06-09T07:03:57.348390200Z,,,,,,,,,,,,,,,,,,schema names,0,2,4745,13229228,ACCUMULO-4864,PATCH - Use String.replace() instead of String.replaceAll() when replaceAll() does not use a regex,2019-04-20T20:09:57.000+0000,5,Resolved
+7,police,2026-06-09T07:03:58.929216Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,facebook,facebook,,http://www.facebook.com/leicspolice,,,,,,,,,,,,,,,,,,
+7,police,2026-06-09T07:03:58.929216Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,twitter,twitter,,http://www.twitter.com/leicspolice,,,,,,,,,,,,,,,,,,
+7,police,2026-06-09T07:03:58.929216Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,youtube,youtube,,http://www.youtube.com/leicspolice,,,,,,,,,,,,,,,,,,
+7,police,2026-06-09T07:03:58.929216Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,rss,rss,,https://www.leics.police.uk/news/leicestershire/news/GetNewsRss/,,,,,,,,,,,,,,,,,,
+7,police,2026-06-09T07:03:58.929216Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,telephone,telephone,,,,,,,,,,,,,,,,,,,,
+8,potter,2026-06-09T07:03:59.334534900Z,,,,,,,,,,Minerva McGonagall,Minerva,Gryffindor,Maggie Smith,,https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/characters/minerva_mcgonagall.png,Oct 4  1935,15,,,,,,,,,,
+9,jira,2026-06-09T07:03:59.644773100Z,,,,,,,,,,,,,,,,,,schema names,0,2,4745,13249927,ACCUMULO-4867,Java Collections Improvements in DefaultLoadBalancer,2019-08-09T15:30:10.000+0000,5,Resolved
+9,jira,2026-06-09T07:03:59.644773100Z,,,,,,,,,,,,,,,,,,schema names,0,2,4745,13229228,ACCUMULO-4864,PATCH - Use String.replace() instead of String.replaceAll() when replaceAll() does not use a regex,2019-04-20T20:09:57.000+0000,5,Resolved
+10,potter,2026-06-09T07:04:01.886545100Z,,,,,,,,,,Luna Lovegood,Luna,Ravenclaw,Evanna Lynch,,https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/characters/luna_lovegood.png,Feb 13  1981,12,,,,,,,,,,
+11,police,2026-06-09T07:04:01.888545400Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,facebook,facebook,,http://www.facebook.com/leicspolice,,,,,,,,,,,,,,,,,,
+11,police,2026-06-09T07:04:01.888545400Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,twitter,twitter,,http://www.twitter.com/leicspolice,,,,,,,,,,,,,,,,,,
+11,police,2026-06-09T07:04:01.888545400Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,youtube,youtube,,http://www.youtube.com/leicspolice,,,,,,,,,,,,,,,,,,
+11,police,2026-06-09T07:04:01.888545400Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,rss,rss,,https://www.leics.police.uk/news/leicestershire/news/GetNewsRss/,,,,,,,,,,,,,,,,,,
+11,police,2026-06-09T07:04:01.888545400Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,telephone,telephone,,,,,,,,,,,,,,,,,,,,
+12,jira,2026-06-09T07:04:02.435959200Z,,,,,,,,,,,,,,,,,,schema names,0,2,4745,13249927,ACCUMULO-4867,Java Collections Improvements in DefaultLoadBalancer,2019-08-09T15:30:10.000+0000,5,Resolved
+12,jira,2026-06-09T07:04:02.435959200Z,,,,,,,,,,,,,,,,,,schema names,0,2,4745,13229228,ACCUMULO-4864,PATCH - Use String.replace() instead of String.replaceAll() when replaceAll() does not use a regex,2019-04-20T20:09:57.000+0000,5,Resolved
+13,police,2026-06-09T07:04:04.135811Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,facebook,facebook,,http://www.facebook.com/leicspolice,,,,,,,,,,,,,,,,,,
+13,police,2026-06-09T07:04:04.135811Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,twitter,twitter,,http://www.twitter.com/leicspolice,,,,,,,,,,,,,,,,,,
+13,police,2026-06-09T07:04:04.135811Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,youtube,youtube,,http://www.youtube.com/leicspolice,,,,,,,,,,,,,,,,,,
+13,police,2026-06-09T07:04:04.135811Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,rss,rss,,https://www.leics.police.uk/news/leicestershire/news/GetNewsRss/,,,,,,,,,,,,,,,,,,
+13,police,2026-06-09T07:04:04.135811Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,telephone,telephone,,,,,,,,,,,,,,,,,,,,
+14,potter,2026-06-09T07:04:04.197116500Z,,,,,,,,,,Neville Longbottom,Neville,Gryffindor,Matthew Lewis,,https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/characters/neville_longbottom.png,Jul 30  1980,11,,,,,,,,,,
+15,jira,2026-06-09T07:04:04.903653900Z,,,,,,,,,,,,,,,,,,schema names,0,2,4745,13249927,ACCUMULO-4867,Java Collections Improvements in DefaultLoadBalancer,2019-08-09T15:30:10.000+0000,5,Resolved
+15,jira,2026-06-09T07:04:04.903653900Z,,,,,,,,,,,,,,,,,,schema names,0,2,4745,13229228,ACCUMULO-4864,PATCH - Use String.replace() instead of String.replaceAll() when replaceAll() does not use a regex,2019-04-20T20:09:57.000+0000,5,Resolved
+16,police,2026-06-09T07:04:07.047693500Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,facebook,facebook,,http://www.facebook.com/leicspolice,,,,,,,,,,,,,,,,,,
+16,police,2026-06-09T07:04:07.048693400Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,twitter,twitter,,http://www.twitter.com/leicspolice,,,,,,,,,,,,,,,,,,
+16,police,2026-06-09T07:04:07.048693400Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,youtube,youtube,,http://www.youtube.com/leicspolice,,,,,,,,,,,,,,,,,,
+16,police,2026-06-09T07:04:07.048693400Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,rss,rss,,https://www.leics.police.uk/news/leicestershire/news/GetNewsRss/,,,,,,,,,,,,,,,,,,
+16,police,2026-06-09T07:04:07.048693400Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,telephone,telephone,,,,,,,,,,,,,,,,,,,,
+17,jira,2026-06-09T07:04:07.793567600Z,,,,,,,,,,,,,,,,,,schema names,0,2,4745,13249927,ACCUMULO-4867,Java Collections Improvements in DefaultLoadBalancer,2019-08-09T15:30:10.000+0000,5,Resolved
+17,jira,2026-06-09T07:04:07.793567600Z,,,,,,,,,,,,,,,,,,schema names,0,2,4745,13229228,ACCUMULO-4864,PATCH - Use String.replace() instead of String.replaceAll() when replaceAll() does not use a regex,2019-04-20T20:09:57.000+0000,5,Resolved
+18,potter,2026-06-09T07:04:07.796567100Z,,,,,,,,,,Lord Voldemort,Voldemort,Slytherin,Ralph Fiennes,Delphi,https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/characters/lord_voldemort.png,Dec 31  1926,21,,,,,,,,,,
+19,police,2026-06-09T07:04:09.547789100Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,facebook,facebook,,http://www.facebook.com/leicspolice,,,,,,,,,,,,,,,,,,
+19,police,2026-06-09T07:04:09.547789100Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,twitter,twitter,,http://www.twitter.com/leicspolice,,,,,,,,,,,,,,,,,,
+19,police,2026-06-09T07:04:09.547789100Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,youtube,youtube,,http://www.youtube.com/leicspolice,,,,,,,,,,,,,,,,,,
+19,police,2026-06-09T07:04:09.547789100Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,rss,rss,,https://www.leics.police.uk/news/leicestershire/news/GetNewsRss/,,,,,,,,,,,,,,,,,,
+19,police,2026-06-09T07:04:09.548349900Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,telephone,telephone,,,,,,,,,,,,,,,,,,,,
+20,potter,2026-06-09T07:04:10.228412500Z,,,,,,,,,,James Potter,James,Gryffindor,Adrian Rawlins,Harry Potter,https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/characters/james_potter.png,Mar 27  1960,24,,,,,,,,,,
+21,jira,2026-06-09T07:04:10.230412100Z,,,,,,,,,,,,,,,,,,schema names,0,2,4745,13249927,ACCUMULO-4867,Java Collections Improvements in DefaultLoadBalancer,2019-08-09T15:30:10.000+0000,5,Resolved
+21,jira,2026-06-09T07:04:10.230412100Z,,,,,,,,,,,,,,,,,,schema names,0,2,4745,13229228,ACCUMULO-4864,PATCH - Use String.replace() instead of String.replaceAll() when replaceAll() does not use a regex,2019-04-20T20:09:57.000+0000,5,Resolved
+22,police,2026-06-09T07:04:11.684731300Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,facebook,facebook,,http://www.facebook.com/leicspolice,,,,,,,,,,,,,,,,,,
+22,police,2026-06-09T07:04:11.684731300Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,twitter,twitter,,http://www.twitter.com/leicspolice,,,,,,,,,,,,,,,,,,
+22,police,2026-06-09T07:04:11.684731300Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,youtube,youtube,,http://www.youtube.com/leicspolice,,,,,,,,,,,,,,,,,,
+22,police,2026-06-09T07:04:11.684731300Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,rss,rss,,https://www.leics.police.uk/news/leicestershire/news/GetNewsRss/,,,,,,,,,,,,,,,,,,
+22,police,2026-06-09T07:04:11.684731300Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,telephone,telephone,,,,,,,,,,,,,,,,,,,,
+23,jira,2026-06-09T07:04:12.492441500Z,,,,,,,,,,,,,,,,,,schema names,0,2,4745,13249927,ACCUMULO-4867,Java Collections Improvements in DefaultLoadBalancer,2019-08-09T15:30:10.000+0000,5,Resolved
+23,jira,2026-06-09T07:04:12.493441Z,,,,,,,,,,,,,,,,,,schema names,0,2,4745,13229228,ACCUMULO-4864,PATCH - Use String.replace() instead of String.replaceAll() when replaceAll() does not use a regex,2019-04-20T20:09:57.000+0000,5,Resolved
+24,potter,2026-06-09T07:04:12.495260100Z,,,,,,,,,,Charlie Weasley,Charlie,Gryffindor,,,https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/characters/charlie_weasley.png,Dec 12  1972,7,,,,,,,,,,
+25,police,2026-06-09T07:04:13.910596200Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,facebook,facebook,,http://www.facebook.com/leicspolice,,,,,,,,,,,,,,,,,,
+25,police,2026-06-09T07:04:13.910596200Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,twitter,twitter,,http://www.twitter.com/leicspolice,,,,,,,,,,,,,,,,,,
+25,police,2026-06-09T07:04:13.910596200Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,youtube,youtube,,http://www.youtube.com/leicspolice,,,,,,,,,,,,,,,,,,
+25,police,2026-06-09T07:04:13.910596200Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,rss,rss,,https://www.leics.police.uk/news/leicestershire/news/GetNewsRss/,,,,,,,,,,,,,,,,,,
+25,police,2026-06-09T07:04:13.910596200Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,telephone,telephone,,,,,,,,,,,,,,,,,,,,
+26,potter,2026-06-09T07:04:14.981826900Z,,,,,,,,,,Albus Percival Wulfric Brian Dumbledore,Dumbledore,Gryffindor,Richard Harris,,https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/characters/albus_dumbledore.png,Aug 29  1881,14,,,,,,,,,,
+27,jira,2026-06-09T07:04:14.985047700Z,,,,,,,,,,,,,,,,,,schema names,0,2,4745,13249927,ACCUMULO-4867,Java Collections Improvements in DefaultLoadBalancer,2019-08-09T15:30:10.000+0000,5,Resolved
+27,jira,2026-06-09T07:04:14.985047700Z,,,,,,,,,,,,,,,,,,schema names,0,2,4745,13229228,ACCUMULO-4864,PATCH - Use String.replace() instead of String.replaceAll() when replaceAll() does not use a regex,2019-04-20T20:09:57.000+0000,5,Resolved
+28,police,2026-06-09T07:04:16.014917700Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,facebook,facebook,,http://www.facebook.com/leicspolice,,,,,,,,,,,,,,,,,,
+28,police,2026-06-09T07:04:16.014917700Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,twitter,twitter,,http://www.twitter.com/leicspolice,,,,,,,,,,,,,,,,,,
+28,police,2026-06-09T07:04:16.014917700Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,youtube,youtube,,http://www.youtube.com/leicspolice,,,,,,,,,,,,,,,,,,
+28,police,2026-06-09T07:04:16.014917700Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,rss,rss,,https://www.leics.police.uk/news/leicestershire/news/GetNewsRss/,,,,,,,,,,,,,,,,,,
+28,police,2026-06-09T07:04:16.014917700Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,telephone,telephone,,,,,,,,,,,,,,,,,,,,
+29,jira,2026-06-09T07:04:17.182383300Z,,,,,,,,,,,,,,,,,,schema names,0,2,4745,13249927,ACCUMULO-4867,Java Collections Improvements in DefaultLoadBalancer,2019-08-09T15:30:10.000+0000,5,Resolved
+29,jira,2026-06-09T07:04:17.182383300Z,,,,,,,,,,,,,,,,,,schema names,0,2,4745,13229228,ACCUMULO-4864,PATCH - Use String.replace() instead of String.replaceAll() when replaceAll() does not use a regex,2019-04-20T20:09:57.000+0000,5,Resolved
+30,potter,2026-06-09T07:04:17.188109800Z,,,,,,,,,,Percy Weasley,Percy,Gryffindor,Chris Rankin,,https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/characters/percy_weasley.png,Aug 22  1976,6,,,,,,,,,,
+31,police,2026-06-09T07:04:18.124051Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,facebook,facebook,,http://www.facebook.com/leicspolice,,,,,,,,,,,,,,,,,,
+31,police,2026-06-09T07:04:18.124051Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,twitter,twitter,,http://www.twitter.com/leicspolice,,,,,,,,,,,,,,,,,,
+31,police,2026-06-09T07:04:18.124051Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,youtube,youtube,,http://www.youtube.com/leicspolice,,,,,,,,,,,,,,,,,,
+31,police,2026-06-09T07:04:18.125056700Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,rss,rss,,https://www.leics.police.uk/news/leicestershire/news/GetNewsRss/,,,,,,,,,,,,,,,,,,
+31,police,2026-06-09T07:04:18.125056700Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,telephone,telephone,,,,,,,,,,,,,,,,,,,,
+32,jira,2026-06-09T07:04:19.736200200Z,,,,,,,,,,,,,,,,,,schema names,0,2,4745,13249927,ACCUMULO-4867,Java Collections Improvements in DefaultLoadBalancer,2019-08-09T15:30:10.000+0000,5,Resolved
+32,jira,2026-06-09T07:04:19.736200200Z,,,,,,,,,,,,,,,,,,schema names,0,2,4745,13229228,ACCUMULO-4864,PATCH - Use String.replace() instead of String.replaceAll() when replaceAll() does not use a regex,2019-04-20T20:09:57.000+0000,5,Resolved
+33,potter,2026-06-09T07:04:19.737706500Z,,,,,,,,,,Lord Voldemort,Voldemort,Slytherin,Ralph Fiennes,Delphi,https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/characters/lord_voldemort.png,Dec 31  1926,21,,,,,,,,,,
+34,police,2026-06-09T07:04:20.320472400Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,facebook,facebook,,http://www.facebook.com/leicspolice,,,,,,,,,,,,,,,,,,
+34,police,2026-06-09T07:04:20.320472400Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,twitter,twitter,,http://www.twitter.com/leicspolice,,,,,,,,,,,,,,,,,,
+34,police,2026-06-09T07:04:20.320472400Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,youtube,youtube,,http://www.youtube.com/leicspolice,,,,,,,,,,,,,,,,,,
+34,police,2026-06-09T07:04:20.320472400Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,rss,rss,,https://www.leics.police.uk/news/leicestershire/news/GetNewsRss/,,,,,,,,,,,,,,,,,,
+34,police,2026-06-09T07:04:20.320472400Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,telephone,telephone,,,,,,,,,,,,,,,,,,,,
+35,potter,2026-06-09T07:04:22.582178500Z,,,,,,,,,,Nymphadora Tonks,Tonks,Hufflepuff,Natalia Tena,Ted Lupin,https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/characters/nymphadora_tonks.png,Dec 25  1972,23,,,,,,,,,,
+36,jira,2026-06-09T07:04:22.585089800Z,,,,,,,,,,,,,,,,,,schema names,0,2,4745,13249927,ACCUMULO-4867,Java Collections Improvements in DefaultLoadBalancer,2019-08-09T15:30:10.000+0000,5,Resolved
+36,jira,2026-06-09T07:04:22.585089800Z,,,,,,,,,,,,,,,,,,schema names,0,2,4745,13229228,ACCUMULO-4864,PATCH - Use String.replace() instead of String.replaceAll() when replaceAll() does not use a regex,2019-04-20T20:09:57.000+0000,5,Resolved
+37,police,2026-06-09T07:04:22.616956100Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,facebook,facebook,,http://www.facebook.com/leicspolice,,,,,,,,,,,,,,,,,,
+37,police,2026-06-09T07:04:22.616956100Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,twitter,twitter,,http://www.twitter.com/leicspolice,,,,,,,,,,,,,,,,,,
+37,police,2026-06-09T07:04:22.616956100Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,youtube,youtube,,http://www.youtube.com/leicspolice,,,,,,,,,,,,,,,,,,
+37,police,2026-06-09T07:04:22.616956100Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,rss,rss,,https://www.leics.police.uk/news/leicestershire/news/GetNewsRss/,,,,,,,,,,,,,,,,,,
+37,police,2026-06-09T07:04:22.616956100Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,telephone,telephone,,,,,,,,,,,,,,,,,,,,
+38,potter,2026-06-09T07:04:25.911341900Z,,,,,,,,,,George Weasley,George,Gryffindor,Oliver Phelps,,https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/characters/george_weasley.png,Apr 1  1978,4,,,,,,,,,,
+39,police,2026-06-09T07:04:25.940887200Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,facebook,facebook,,http://www.facebook.com/leicspolice,,,,,,,,,,,,,,,,,,
+39,police,2026-06-09T07:04:25.942544300Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,twitter,twitter,,http://www.twitter.com/leicspolice,,,,,,,,,,,,,,,,,,
+39,police,2026-06-09T07:04:25.942544300Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,youtube,youtube,,http://www.youtube.com/leicspolice,,,,,,,,,,,,,,,,,,
+39,police,2026-06-09T07:04:25.942544300Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,rss,rss,,https://www.leics.police.uk/news/leicestershire/news/GetNewsRss/,,,,,,,,,,,,,,,,,,
+39,police,2026-06-09T07:04:25.942544300Z,leicestershire,Leicestershire Police,,http://www.leics.police.uk/,101,telephone,telephone,,,,,,,,,,,,,,,,,,,,

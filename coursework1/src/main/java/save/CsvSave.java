@@ -1,17 +1,19 @@
 package save;
 
+import java.io.*;
 import java.util.*;
-import java.io.File;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
 import com.opencsv.CSVReader;
 import com.opencsv.CSVWriter;
 import com.opencsv.exceptions.CsvValidationException;
 
 public final class CsvSave {
-    private static final String FILE_PATH = "data.csv";
-    public void save(CsvConvertible data, String apiName, boolean append) throws IOException, CsvValidationException {
+    private final String FILE_PATH;
+    private boolean append;
+    public CsvSave(boolean append) {
+        FILE_PATH = "data.csv";
+        this.append = append;
+    }
+    public synchronized void save(CsvConvertible data, String apiName) throws IOException, CsvValidationException {
         List<Map<String, String>> allRows = new ArrayList<>();
         Set<String> allHeaders = new LinkedHashSet<>(List.of("id", "source", "timestamp"));
         File file = new File(FILE_PATH);
@@ -51,5 +53,6 @@ public final class CsvSave {
                 writer.writeNext(values);
             }
         }
+        append = true;
     }
 }

@@ -13,7 +13,7 @@ public class Connector {
         HttpRequest request = HttpRequest.newBuilder()
                 .uri(URI.create(url))
                 .GET()
-                .timeout(Duration.ofMinutes(1))
+                .timeout(Duration.ofSeconds(30))
                 .build();
         HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());
         if (response.statusCode() > 299) {
